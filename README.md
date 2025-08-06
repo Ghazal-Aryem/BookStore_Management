@@ -53,7 +53,7 @@ This is a **.NET C# MVC** web application that enables administrators to manage 
 ### 🏢 Manage Publishers  
 ![Manage Publishers](ScreenShots/publisher.png)
 
-### 🏢 DataBase Architecture  
+### 🗃 DataBase Architecture  
 ![Database Architecture](ScreenShots/database.png)
 
 ---
